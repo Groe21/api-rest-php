@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server":"192.168.0.112",
+        "user":"emilio",
+        "password":"tkmch2005",
+        "database":"aguilas_del_saber",
+        "port":"5432"
+    }
+}
